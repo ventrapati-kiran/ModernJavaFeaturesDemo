@@ -1,0 +1,12 @@
+org\demo\j21\PatternMatchingSwitchDemo.class
+org\demo\j21\RecordPatternDemo$Point.class
+org\demo\j21\FinalizationDemo.class
+org\demo\j21\MyClass.class
+org\demo\j21\ScopedValueDemo.class
+module-info.class
+org\demo\j21\RecordPatternDemo.class
+org\demo\j21\StringTemplateDemo.class
+org\demo\j21\SequencedCollectionDemo.class
+org\demo\j21\UnnamedClassDemo.class
+org\demo\j21\FinalizationDemo$Resource.class
+org\demo\j21\VirtualThreadDemo.class
