@@ -1,8 +1,16 @@
 package org.demo.j21;
 
 import java.lang.ref.Cleaner;
+
 /**
+ * Finalization (Deprecated)
  * Java 21 deprecates finalization. Use try-with-resources or Cleaner instead.
+ * 
+ * Use Case:
+ * Cleaner is useful for managing resources that require cleanup.
+ * 
+ * How to Use:
+ * Use `Cleaner.create` to create a cleaner and register resources for cleanup.
  */
 public class FinalizationDemo {
     private static final Cleaner cleaner = Cleaner.create();
